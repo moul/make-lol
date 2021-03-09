@@ -9,3 +9,6 @@ me-rich:
 
 coffee:
 	@echo "              )    (\n             (   ) )\n              ) ( (\n	    _______)_\n	 .-'---------|\n	( C|/\/\/\/\/|\n	 '-./\/\/\/\/|\n	   '_________'\n	    '-------'\n"
+
+starWarsIV:
+	telnet Towel.blinkenlights.nl
